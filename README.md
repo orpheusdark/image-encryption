@@ -3,13 +3,19 @@
 
 # OrphCrypt - Encryption Decryption Tool
 
-OrphCrypt is a simple and basic encryption and decryption tool built using Python and Tkinter.
+This is a simple GUI tool for image encryption using pixel manipulation. The tool allows users to load images, encrypt them using a two-step process, and then visualize and save the encrypted result.
 
 ## Features
+- Load Image
+- Encrypt Image
+- Decrypt Image
+- Save Encrypted/Decrypted Image
 
-- Caesar Cipher encryption and decryption.
-- GUI developed using Tkinter.
-- About Author page with LinkedIn and GitHub links.
+## Requirements
+- Python 3.12
+- Pillow Library
+- pycryptodome Library
+- Tkinter Library
 
 
 ## How to Use
