@@ -56,7 +56,7 @@ To run the application, execute the following command in your terminal:
 
 
 # Connect
-![linkedin](https://github.com/orpheusdark/PRODIGY_CS_02/assets/117748842/f6404b71-1649-4240-a9c1-c26747ec89b5)
 
+[![LinkedIn Logo](https://github.com/orpheusdark/PRODIGY_CS_02/assets/117748842/f6404b71-1649-4240-a9c1-c26747ec89b5)](https://www.linkedin.com/in/orpheusdark/)
 
 
